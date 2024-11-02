@@ -3,20 +3,20 @@ I used two greedy algorithms, one fast and one slower but slightly more accurate
 
 ## Results
 #### Vanuatu
-![vanuatu](vanuatu1.png)
+![vanuatu](vanuatu1.PNG)
 
 Best cost: 1345
 #### Italy
-![italy](italy.png)
+![italy](italy.PNG)
 
 Best cost: 4173
 #### Russia
-![russia](russia.png)
+![russia](russia.PNG)
 
 
 Best cost: 33522
 #### Us
-![us](us.png)
+![us](us.PNG)
 
 
 Best cost: 40481
